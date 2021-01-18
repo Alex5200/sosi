@@ -1,0 +1,32 @@
+body{
+    background-image: url(/img/1610701816163.png);
+}
+.black-txt{
+    color: black;
+}
+.back-color{
+    background-color: black;
+}
+.back-color:hover {
+    background-color: white;
+}
+ .carousel-control-next-icon:hover{
+    background-color: black;
+
+}
+
+.grey{
+    background-color: gray;
+}
+.text-zag{
+    border: solid 2px black;
+    border-radius: 20% 2%;
+    margin-left: 15%;
+    margin-right: 85%;
+    margin-top: 2%;
+    padding: 1%;
+    color: black;
+    background-color: white;
+    width: 20%;
+    text-align: center;
+}
