@@ -1,3 +1,12 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    width: 450px;
+}
+
 .black-txt {
     color: black;
 }
@@ -18,23 +27,31 @@
     background-color: gray;
 }
 
+.border-card {
+    background-color: #F5F7FF;
+    width: 100%;
+    height: auto;
+}
+
+.border-card {
+    min-width: 450px;
+    min-height: auto;
+}
+
 .text-zag {
-    border: 1px double #79B8FF;
-    border-radius: 20%;
-    margin-left: 10%;
-    margin-right: 90%;
     margin-top: 2%;
-    height: 10%;
+    height: auto;
     color: black;
-    background-color: #F2F8FF;
+    background-color: #F5F7FF;
     padding: 2%;
-    width: 20%;
     text-align: center;
     animation-name: animatelogodayte;
 }
 
 .border-card {
-    border: solid 2px #79B8FF;
+    margin-top: 2%;
+    border: solid 2px #F8F9FA;
+    border-radius: 2%;
 }
 
 @keyframes animatelogodayte {
