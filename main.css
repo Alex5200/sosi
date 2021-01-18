@@ -1,24 +1,24 @@
-body{
-    background-image: url(/img/1610701816163.png);
-}
-.black-txt{
+.black-txt {
     color: black;
 }
-.back-color{
+
+.back-color {
     background-color: black;
 }
+
 .back-color:hover {
     background-color: white;
 }
- .carousel-control-next-icon:hover{
-    background-color: black;
 
+.carousel-control-next-icon:hover {
+    background-color: black;
 }
 
-.grey{
+.grey {
     background-color: gray;
 }
-.text-zag{
+
+.text-zag {
     border: solid 2px black;
     border-radius: 20% 2%;
     margin-left: 15%;
