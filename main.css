@@ -11,6 +11,15 @@ img {
     color: black;
 }
 
+.font-navs {
+    font-size: 2rem;
+    font-weight: bold;
+}
+
+.font-navs-lr {
+    font-size: 2rem;
+}
+
 .back-color {
     background-color: black;
 }
@@ -48,12 +57,6 @@ img {
     animation-name: animatelogodayte;
 }
 
-.border-card {
-    margin-top: 2%;
-    border: solid 2px #F8F9FA;
-    border-radius: 2%;
-}
-
 @keyframes animatelogodayte {
     0% {
         border-color: #F49528;
@@ -61,4 +64,10 @@ img {
     100% {
         border-color: #F49559;
     }
+}
+
+.border-card {
+    margin-top: 2%;
+    border: solid 2px #F8F9FA;
+    border-radius: 2%;
 }
